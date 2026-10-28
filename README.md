@@ -1,5 +1,5 @@
 <h1>ExpNo 2 : Implement Depth First Search Traversal of a Graph</h1> 
-<h3>Name:ESWAR S S </h3>
+<h3>Name:ESWAR S </h3>
 <h3>Register Number: 212224040087    </h3>
 <h3>Date: 28/10/2026</h3>
 
